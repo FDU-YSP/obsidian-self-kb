@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI agent + AI infra.md",
+                "file": "interview/Microsoft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI agent + AI infra"
+              "title": "Microsoft"
             }
           },
           {
@@ -125,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 258.43359375
   },
   "right": {
     "id": "e179d53b53263166",
@@ -230,12 +230,17 @@
       "bases:新建数据库": false
     }
   },
-  "active": "5f1dcb9adf314616",
+  "active": "e0ae9ed13807d2c1",
   "lastOpenFiles": [
+    "interview/Nvidia.md",
+    "leetcode/动态规划.md",
+    "interview/Microsoft.md",
     "README.md",
+    "interview",
+    "AI agent + AI infra.md",
+    "leetcode",
     "未命名.base",
     "未命名 1.base",
-    "AI agent + AI infra.md",
     "GPU knowledge.md",
     "邱锡鹏的中文 AI 图书与学习资源：神经网络与深度学习、PyTorch 实践、大模型与智能体.md"
   ]
